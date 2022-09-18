@@ -66,7 +66,7 @@ app.listen(process.env.PORT || 8000);
 
 # After completion of adding the above in 'package.json' your 'package.json' should look something like this.
 
-![This is an image](https://raw.githubusercontent.com/thrinathreddynarahari/Azure-Angular-Deployment/main/next_steps.png)
+![This is an image](https://raw.githubusercontent.com/thrinathreddynarahari/AngularAppServingUsingExpress/main/pakageJsonHerokuAngularDeployment.png)
 
 -----
 ## Run the following command to Serve the angular app on express server.
