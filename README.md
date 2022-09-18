@@ -75,7 +75,7 @@ app.listen(process.env.PORT || 8000);
 npm run start
 ```
                             
-# Open the configured port in browser.
+### Open the configured port in browser.
 
 Congrats! You have deployed angular app using express.
 -----
